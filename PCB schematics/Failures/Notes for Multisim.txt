@@ -1,0 +1,7 @@
+Note: 
+
+Vcc and all Arduino nano pins (not GND) are under the boards
+
+SRs 1-4:
+
+from MC - CP, DS, CE

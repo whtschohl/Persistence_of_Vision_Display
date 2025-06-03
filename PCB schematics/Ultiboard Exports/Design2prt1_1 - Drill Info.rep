@@ -1,0 +1,22 @@
+ULTIBOARD DRILL REPORT
+
+Design: Design2prt1_1
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Metric, 3.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                      LAMINATION
+Design2prt1_1 - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.6000    PTH      5
+   2   0.8890    PTH      4
+   3   0.9949    PTH      2
