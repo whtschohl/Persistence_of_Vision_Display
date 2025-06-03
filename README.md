@@ -1,1 +1,1 @@
-"# Persistence_of_Vission_Display" 
+# Persistence of Vision Display
